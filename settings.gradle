@@ -1,1 +1,1 @@
-include ':app', ':apptour-library-fork'
+include ':app', ':colored-pager'

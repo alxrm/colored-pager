@@ -1,10 +1,10 @@
-<manifest package="com.rm.apptour_library_fork"
+<manifest
+    package="com.rm.colored_pager"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="true"
         android:label="@string/app_name"
-        android:supportsRtl="true"
         >
 
     </application>

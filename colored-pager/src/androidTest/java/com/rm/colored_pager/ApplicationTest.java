@@ -1,4 +1,4 @@
-package com.rm.apptour_library_fork;
+package com.rm.colored_pager;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
